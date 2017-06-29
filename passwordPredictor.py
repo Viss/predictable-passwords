@@ -43,6 +43,11 @@ def keyboardPatterns():
 				'123',
 				';lkj',
 				'jkl;',
+				'1qaz2wsx',
+				'!QAZ@WSX',
+				'1qscgy7',
+				'!QSCft6',
+				'qweasd',
 				]
 	return
 
